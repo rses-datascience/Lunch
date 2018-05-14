@@ -6,6 +6,6 @@ dependencies:
   - pandas
   - numpy
   - scipy
-  - sklearn
   - pip:
     - sphinx-gallery
+    - sklearn
